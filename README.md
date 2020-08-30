@@ -2,9 +2,7 @@
  🏫: I am a senior at Ohio University and am studying Computer Science.
   
  🏀: I love the NBA and hope everyone in the bubble stays safe!
- 
- 🌱: I'm currently learning Deno.
- 
+  
  😕: I currently don't know what I want to do after graduation with my degree.
  
  📫: How to reach me - email - matthewaellis29@gmail.com
