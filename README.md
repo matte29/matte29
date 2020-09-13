@@ -9,7 +9,7 @@
  
  📫: How to reach me - email - matthewaellis29@gmail.com
  
-     Link to my Portfolio, https://matte29.github.io/
+ ⚡: Link to my [Portfolio](https://matte29.github.io/)
 <!--
 **matte29/matte29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
