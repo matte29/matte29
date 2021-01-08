@@ -3,7 +3,7 @@
 ### Hey there 👋,  I'm Matt
  🏫: I am a senior at Ohio University and am studying Computer Science.
   
- 🏀: I love the NBA and hope everyone in the bubble stays safe!
+ 🏀: I love the NBA!
   
  😕: I currently don't know what I want to do after graduation with my degree.
  
